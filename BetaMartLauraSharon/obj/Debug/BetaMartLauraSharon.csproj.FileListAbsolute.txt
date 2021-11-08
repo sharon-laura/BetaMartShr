@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\XII file\KK3\BetaMartLauraSharon\BetaMartLauraSharon\bin\Debug\BetaMartLauraSharon.exe.config
+C:\Users\Asus\Documents\XII file\KK3\BetaMartLauraSharon\BetaMartLauraSharon\bin\Debug\BetaMartLauraSharon.exe
+C:\Users\Asus\Documents\XII file\KK3\BetaMartLauraSharon\BetaMartLauraSharon\bin\Debug\BetaMartLauraSharon.pdb
+C:\Users\Asus\Documents\XII file\KK3\BetaMartLauraSharon\BetaMartLauraSharon\obj\Debug\BetaMartLauraSharon.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\XII file\KK3\BetaMartLauraSharon\BetaMartLauraSharon\obj\Debug\BetaMartLauraSharon.Form1.resources
+C:\Users\Asus\Documents\XII file\KK3\BetaMartLauraSharon\BetaMartLauraSharon\obj\Debug\BetaMartLauraSharon.Properties.Resources.resources
+C:\Users\Asus\Documents\XII file\KK3\BetaMartLauraSharon\BetaMartLauraSharon\obj\Debug\BetaMartLauraSharon.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\XII file\KK3\BetaMartLauraSharon\BetaMartLauraSharon\obj\Debug\BetaMartLauraSharon.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\XII file\KK3\BetaMartLauraSharon\BetaMartLauraSharon\obj\Debug\BetaMartLauraSharon.exe
+C:\Users\Asus\Documents\XII file\KK3\BetaMartLauraSharon\BetaMartLauraSharon\obj\Debug\BetaMartLauraSharon.pdb
